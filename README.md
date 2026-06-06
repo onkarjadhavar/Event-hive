@@ -38,7 +38,7 @@ For the current static site, you can deploy the workspace root directly to any s
 ## Production Deploy
 
 - Vercel: deploy the project root and use `vercel.json`.
-- Netlify: deploy the project root and use `netlify.toml`.
+  
 
 ## Notes
 
