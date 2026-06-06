@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useEvent } from '../context/EventContext.jsx';
 import EventCard from '../components/EventCard.jsx';
 import SearchBar from '../components/SearchBar.jsx';
-import CategoryFilter from '../components\CategoryFilter.jsx';
+import CategoryFilter from '../components/CategoryFilter.jsx';
 import Loader from '../components/Loader.jsx';
 
 const categories = ['All', 'Music', 'Technology', 'Business', 'Cultural', 'Sports', 'Workshops', 'Technical'];
